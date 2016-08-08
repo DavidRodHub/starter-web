@@ -22,6 +22,7 @@ can be on any web server or even local
 file system.
 
 ## How to Contribute
+ Added again some text on how to contribure
 
 ### Copyrigh
 
