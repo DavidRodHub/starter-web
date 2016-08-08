@@ -24,6 +24,8 @@ file system.
 ## How to Contribute
  Added again some text on how to contribure
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyrigh
 
 2014 Git.Training
