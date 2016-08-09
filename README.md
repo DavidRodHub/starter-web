@@ -15,7 +15,7 @@ using a web project.
 
 As stated above, the main purpose is to
 provide simple examples for Git Training
-demos. To Learn GIT
+demos. To Learn GIT. OK
 
 ## Deployment
 
