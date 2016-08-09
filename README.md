@@ -2,6 +2,7 @@
 
 This is a simple websit project for
 showing how to use Git and Github together. Updating for emergency fix after stash
+Adding a line for rebasing example
 
 ## Introduction
 
